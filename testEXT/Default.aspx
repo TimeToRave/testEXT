@@ -84,7 +84,7 @@
 
 <html>
 <head runat="server">
-    <title>Simple Array Grid - Ext.NET Examples</title>
+    <title>Тестовое задание</title>
     <link href="/resources/css/examples.css" rel="stylesheet" />
 </head>
 <body>

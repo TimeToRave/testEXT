@@ -7,15 +7,15 @@
 ## Использование
 
 ### Редактирование записей
-![](https://media.giphy.com/media/KVZZgSxxvGSY6pQFJV/giphy.gif)
+![](https://github.com/kwenda/testEXT/blob/master/Images/EditSale.gif)
 
 ### Создание записей
-![](https://media.giphy.com/media/lzRpQfVeO57fhulJko/giphy.gif)
+![](https://github.com/kwenda/testEXT/blob/master/Images/CreateSale.gif)
     
 ### Удаление записей
-![](https://media.giphy.com/media/Mo0WHw8zKeThDFOSSC/giphy.gif)
+![](https://github.com/kwenda/testEXT/blob/master/Images/DeleteSale.gif)
 
 ### Копирование записей
-![](https://media.giphy.com/media/3FnbdRpumblkTfgX6y/giphy.gif)
+![](https://github.com/kwenda/testEXT/blob/master/Images/CopySale.gif)
 
 
